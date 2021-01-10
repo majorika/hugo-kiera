@@ -2,8 +2,8 @@
 other = "카테고리:"
 
 [readingTime]
-one = "1분 이하"
-other = "{{.Count}}분"
+one = "소요시간: 1분 이하"
+other = "소요시간: {{.Count}}분"
 
 [readMore]
 other = "더보기"
@@ -15,10 +15,10 @@ other = "임시글"
 other = "구독"
 
 [rendered]
-other = "이 페이지를 작성하는데 사용된 도구:"
+other = "사용도구:"
 
 [comments]
-other = "댓글 작성/보기"
+other = "댓글 보기"
 
 [modifiedOn]
 other = "작성 시간"
