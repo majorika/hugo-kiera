@@ -1,0 +1,24 @@
+[categories]
+other = "카테고리:"
+
+[readingTime]
+one = "1분 이하"
+other = "{{.Count}}분"
+
+[readMore]
+other = "더보기"
+
+[draft]
+other = "임시글"
+
+[subscribe]
+other = "구독"
+
+[rendered]
+other = "이 페이지를 작성하는데 사용된 도구:"
+
+[comments]
+other = "댓글 작성/보기"
+
+[modifiedOn]
+other = "작성 시간"
